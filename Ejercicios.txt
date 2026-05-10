@@ -1,0 +1,18 @@
+    1. Variables y tipos
+Declara una variable nombre y asígnale tu nombre. Declara una variable edad y asígnale un número. Muestra en consola: "Hola, me llamo X y tengo Y años". 
+    2. Operaciones matemáticas
+Pide dos números (puedes asignarlos directamente). Muestra su suma, resta, multiplicación y división. 
+    3. Condicionales
+Crea una variable numero. Si es mayor que 0, muestra "Positivo". Si es menor que 0, "Negativo". Si es 0, "Cero". 
+    4. Bucles
+Imprime los números del 1 al 10 usando un for. Imprime los números pares del 1 al 20. 
+    5. Arrays
+Crea un array con 5 frutas. Muestra la primera y la última. Recorre el array e imprime cada elemento. 
+    6. Funciones
+Crea una función saludar(nombre) que devuelva "Hola, nombre". Crea una función que reciba dos números y devuelva el mayor. 
+    7. Objetos
+Crea un objeto persona con propiedades: nombre, edad, ciudad. Muestra una frase usando esos datos. 
+    8. Métodos de arrays
+Dado un array de números [1,2,3,4,5]: Usa map para duplicarlos. Usa filter para quedarte con los mayores a 3. 
+    9. Strings
+Dado un string "javascript": Muéstralo en mayúsculas. Cuenta cuántas letras tiene. Invierte el string. 
